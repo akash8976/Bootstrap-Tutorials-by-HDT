@@ -1,0 +1,14 @@
+.container
+{
+  margin-top: 30px;
+
+}
+
+.customdiv
+{
+  margin: 3px;
+  font-size: large;
+  background-color: silver;
+  min-height: 300px;
+  text-align: center;
+}
